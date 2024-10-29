@@ -1,4 +1,4 @@
 # My_Project
-  Data Science Projects
+  Data Science Projects. 
   Author - Ishani Kanadia
   
